@@ -14,7 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/55-grupe-serlokas
+Site published at: https://hippo-2025.github.io/serlokas/  
 
 Design: ![alt text](./original-design.png)
 
@@ -46,7 +46,7 @@ Would like to run this project locally? Open terminal and follow these steps:
 
 1. Clone the repo
     ```sh
-    git clone https://github.com/front-end-by-rimantas/54-grupe-serlokas.git
+    git clone https://hippo-2025.github.io/serlokas/
     ```
 2. Install NPM packages
     ```sh
